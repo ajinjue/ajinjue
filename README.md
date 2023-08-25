@@ -10,7 +10,7 @@
 - 📫 I'm currently a Data Analyst at Data AnalyticsCFD
 - 🌱 I’m currently learning **Data Engineering with AWS** at Udacity and Datacamp platforms
 
-- 👯 I’m looking to collaborate on **Data Analysis/ Engineering Projects**
+- 👯 I’m looking to collaborate on **Data Engineering/Analysis Projects**
 
 - 👨‍💻 All of my trainings & projects (portfolio) at Datacamp are available at [Datacamp](https://www.datacamp.com/portfolio/collinusakwayaga)
 
