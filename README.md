@@ -16,13 +16,11 @@
 
 - 👀 I’m interested in **everything about data**
 - 📫 How to reach me [![Linkedin Badge](https://img.shields.io/badge/-Collinus-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/akwayaga-collinus-ajinjue/ "Connect on LinkedIn") 
-
-<!---
-- 📄 Please check my [Resume](https://drive.google.com/file/d/1_CSYy5kW5saZmqwDHnU4q4omUgxJSkB1/view?usp=sharing) for more details.
+- 📄 Please check my [Resume](https://docs.google.com/document/d/19cPAN_48ECZgJcQJiKF-3XMnv4ED8Sgd/edit?usp=drive_link&ouid=101093539360537210741&rtpof=true&sd=true) for more details.
 
 
 <img src="https://media.giphy.com/media/VekcnHOwOI5So/giphy.gif" align="right" height="220" />
---->
+
 ### Languages and Tools
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) 
