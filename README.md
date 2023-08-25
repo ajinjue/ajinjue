@@ -1,4 +1,4 @@
-# <center>Hi👋, I'm Collinus Ajinjue Akwayaga<center/>
+<h1 align="center">Hi👋, I'm Collinus Ajinjue Akwayaga<h1/>
 ## <center>Data Engineer | Database Analyst | Data Analyst | Data Modeler<center/>
 
 - 🔭 I’m currently a data analyst at AnalyticsCFD
