@@ -50,8 +50,10 @@ Show some support by starring some of my repositories and follow me on GitHub.
 </a>
 
 <a href="https://github.com/ajinjue/Data_Modelling_with_Cassandra">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=ajnjue&repo=Data_Modelling_with_Cassandra&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=ajinjue&repo=Data_Modelling_with_Cassandra&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
+
+<!---
 
 <br>
 <a href="https://github.com/essraahmed/Data-Deduplication-using-AWS-Lake-Formation-FindMatches">
@@ -83,7 +85,7 @@ Show some support by starring some of my repositories and follow me on GitHub.
 <br>
 <br>
 
-<!---
+
 ![Snake animation](https://github.com/essraahmed/essraahmed/blob/output/github-contribution-grid-snake.svg)
 
 --->
