@@ -1,15 +1,13 @@
 ### Hi👋, I'm Collinus Ajinjue Akwayaga
     Data Engineer | Database Analyst | Data Analyst | Data Modeler
-https://res.cloudinary.com/dyd911kmh/image/upload/v1659085702/Certification/Badges%202022/data-analyst-associate-badge.svg
+
 
 
 
 <!--
 **ajinjue/ajinjue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently a data analyst learning Data Engineering with AWS on Udacity & Datacamp platforms
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
