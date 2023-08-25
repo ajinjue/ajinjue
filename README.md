@@ -1,5 +1,4 @@
-<h2 align="center">Hi👋, I'm Collinus Ajinjue Akwayaga<h2/>
-<h3 align="center">Data Engineer | Database Analyst | Data Analyst | Data Modeler<h3/>
+<h2 align="center">Hi👋, I'm Collinus Ajinjue Akwayaga<h2/><h3 align="center">Data Engineer | Database Analyst | Data Analyst | Data Modeler<h3/>
 
 - 🔭 I’m currently a data analyst at AnalyticsCFD
 - 🌱 I’m currently learning Data Engineering with AWS at Udacity & Datacamp platforms
