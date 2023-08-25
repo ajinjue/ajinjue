@@ -47,7 +47,7 @@ Show some support by starring some of my repositories and follow me on GitHub.
   <img align="left" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=ajinjue&repo=Data_Warehouse_Redshift&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-<a href="https://github.com/ajinjue/Data_Modelling_with_Cassandra">
+<a href="https://github.com/ajinjue/Data_Modeling_with_Cassandra">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=ajinjue&repo=Data_Modelling_with_Cassandra&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
