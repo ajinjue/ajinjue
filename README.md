@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **Data Analysis/ Engineering Projects**
 
-- 👨‍💻 All of my portfolio at Datacamp is available at [Datacamp](https://https://www.datacamp.com/portfolio/collinusakwayaga)
+- 👨‍💻 All of my portfolio at Datacamp is available at [Datacamp](https://www.datacamp.com/portfolio/collinusakwayaga)
 
 - 👀 I’m interested in **everything about data**
   
