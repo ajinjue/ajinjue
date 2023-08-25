@@ -8,7 +8,7 @@
 
 ## 👩🏻‍💻About Me
 - 📫 I'm currently a Data Analyst at Data AnalyticsCFD
-- 🌱 I’m currently learning **Data Engineering with aws** at Udacity and Datacamp platforms
+- 🌱 I’m currently learning **Data Engineering with AWS** at Udacity and Datacamp platforms
 
 - 👯 I’m looking to collaborate on **Data Analysis/ Engineering Projects**
 
