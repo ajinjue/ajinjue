@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **Data Analysis/ Engineering Projects**
 
-- 👨‍💻 All of my portfolio at Datacamp is available at [Datacamp](https://www.datacamp.com/portfolio/collinusakwayaga)
+- 👨‍💻 All of my trainings & projects (portfolio) at Datacamp is available at [Datacamp](https://www.datacamp.com/portfolio/collinusakwayaga)
 
 - 👀 I’m interested in **everything about data**
 - 📫 How to reach me [![Linkedin Badge](https://img.shields.io/badge/-Collinus-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/akwayaga-collinus-ajinjue/ "Connect on LinkedIn") 
@@ -40,17 +40,17 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="40"/> </a>
 
 <br>
-<!---
+
 ## 📌 Pinned Repositories 
 
 Show some support by starring some of my repositories and follow me on GitHub.
 
 
-<a href="https://github.com/essraahmed/Data-Modeling-with-Postgres">
-  <img align="left" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=essraahmed&repo=Data-Modeling-with-Postgres&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<a href="https://github.com/ajinjue/Data_Warehouse_Redshift">
+  <img align="left" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=ajinjue&repo=Data_Warehouse_Redshift&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-
+<!---
 <a href="https://github.com/essraahmed/Data-Warehouse-With-Redshift">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=essraahmed&repo=Data-Warehouse-With-Redshift&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
