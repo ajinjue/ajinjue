@@ -15,7 +15,7 @@
 - 👨‍💻 All of my portfolio at Datacamp is available at [Datacamp](https://www.datacamp.com/portfolio/collinusakwayaga)
 
 - 👀 I’m interested in **everything about data**
-- 📫 How to reach me [![Linkedin Badge](https://img.shields.io/badge/-Akwayaga Collinus A.-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/akwayaga-collinus-ajinjue/ "Connect on LinkedIn") 
+- 📫 How to reach me [![Linkedin Badge](https://img.shields.io/badge/-Collinus-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/akwayaga-collinus-ajinjue/ "Connect on LinkedIn") 
 
 <!---
 - 📄 Please check my [Resume](https://drive.google.com/file/d/1_CSYy5kW5saZmqwDHnU4q4omUgxJSkB1/view?usp=sharing) for more details.
