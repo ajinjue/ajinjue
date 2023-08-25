@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi👋, I'm Collinus Ajinjue Akwayaga
+        Data Engineer | Database Analyst | Data Analyst | Data Modeler
 
 <!--
 **ajinjue/ajinjue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
