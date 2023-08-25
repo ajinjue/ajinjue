@@ -1,5 +1,5 @@
 ### Hi👋, I'm Collinus Ajinjue Akwayaga
-        Data Engineer | Database Analyst | Data Analyst | Data Modeler
+Data Engineer | Database Analyst | Data Analyst | Data Modeler
 ![image](https://github.com/ajinjue/ajinjue/assets/100845693/2e8bd2ac-536c-470e-894c-d287c8c494e2)
 
 
