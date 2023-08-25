@@ -24,7 +24,6 @@
 <img src="https://media.giphy.com/media/VekcnHOwOI5So/giphy.gif" align="right" height="220" />
 --->
 ### Languages and Tools
-
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) 
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=Apache%20Airflow&logoColor=white) 
@@ -50,8 +49,8 @@ Show some support by starring some of my repositories and follow me on GitHub.
   <img align="left" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=ajinjue&repo=Data_Warehouse_Redshift&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-<a href="https://github.com/essraahmed/Data-Warehouse-With-Redshift">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=essraahmed&repo=Data-Warehouse-With-Redshift&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<a href="https://github.com/ajinjue/Data_Modelling_with_Cassandra">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=ajnjue&repo=Data_Modelling_with_Cassandra&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <br>
