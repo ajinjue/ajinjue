@@ -1,12 +1,6 @@
 ### Hi👋, I'm Collinus Ajinjue Akwayaga
     Data Engineer | Database Analyst | Data Analyst | Data Modeler
 
-
-
-
-<!--
-**ajinjue/ajinjue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 🔭 I’m currently a data analyst learning Data Engineering with AWS on Udacity & Datacamp platforms
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -15,4 +9,4 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
