@@ -1,5 +1,5 @@
-### Hi👋, I'm Collinus Ajinjue Akwayaga
-    Data Engineer | Database Analyst | Data Analyst | Data Modeler
+###                             Hi👋, I'm Collinus Ajinjue Akwayaga
+                    Data Engineer | Database Analyst | Data Analyst | Data Modeler
 
 - 🔭 I’m currently a data analyst learning Data Engineering with AWS on Udacity & Datacamp platforms
 - 🌱 I’m currently learning ...
