@@ -1,6 +1,7 @@
 <h1 align="center">Hi✌🏻, I'm Collinus Ajinjue Akwayaga</h1>
 <h3 align="center">Data Engineer | Database Analyst | Data Modeler | Data Analyst</h3>
 
+<!---
 ![Profile Views](https://komarev.com/ghpvc/?username=essraahmed&color=blue)
 [![Linkedin Badge](https://img.shields.io/badge/-esraahmed-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/esraa-ahmed-ibrahim2/ "Connect on LinkedIn")
 
@@ -93,4 +94,4 @@ Show some support by starring some of my repositories and follow me on GitHub.
 
 ![Snake animation](https://github.com/essraahmed/essraahmed/blob/output/github-contribution-grid-snake.svg)
 
-
+--->
