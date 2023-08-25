@@ -15,12 +15,11 @@
 - 👨‍💻 All of my trainings & projects (portfolio) at Datacamp are available at [Datacamp](https://www.datacamp.com/portfolio/collinusakwayaga)
 
 - 👀 I’m interested in **everything about data**
-- 📫 How to reach me [![Linkedin Badge](https://img.shields.io/badge/-Collinus-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/akwayaga-collinus-ajinjue/ "Connect on LinkedIn") 
+- 📫 How to reach me [![Linkedin Badge](https://img.shields.io/badge/-Collinus-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/akwayaga-collinus-ajinjue/ "Connect on LinkedIn")
+  <img src="https://media.giphy.com/media/VekcnHOwOI5So/giphy.gif" align="right" height="220" />
 - 📄 Please check my [Resume](https://drive.google.com/file/d/1HwOKCJ6Ilt0TMH1bb03787gZD7wKDURm/view?usp=sharing) for more details.
 
-<!---
-<img src="https://media.giphy.com/media/VekcnHOwOI5So/giphy.gif" align="right" height="220" />
---->
+
 ### Languages and Tools
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) 
