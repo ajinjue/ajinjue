@@ -38,8 +38,6 @@
 <a href="https://www.linux.org/" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="40"/> </a>
 
-<br>
-
 ## 📌 Pinned Repositories 
 
 Show some support by starring some of my repositories and follow me on GitHub.
