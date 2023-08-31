@@ -17,7 +17,7 @@
 - 👀 I’m interested in **everything about data**
 - 📫 How to reach me [![Linkedin Badge](https://img.shields.io/badge/-Collinus-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/akwayaga-collinus-ajinjue/ "Connect on LinkedIn")
   <img src="https://media.giphy.com/media/VekcnHOwOI5So/giphy.gif" align="right" height="220" />
-- 📄 Please check my [Resume](https://drive.google.com/file/d/1HwOKCJ6Ilt0TMH1bb03787gZD7wKDURm/view?usp=sharing) for more details.
+- 📄 Please check my [Resume](https://drive.google.com/file/d/1g8WHDJbPG_wI3Z04Rnoykh6ks6HKP1eB/view?usp=drive_link) for more details.
 
 
 ### Languages and Tools
