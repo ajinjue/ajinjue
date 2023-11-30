@@ -1,5 +1,5 @@
 <h1 align="center">Hi✌🏻, I'm Collinus Ajinjue Akwayaga</h1>
-<h3 align="center">Data Engineer | Database Analyst | Data Modeler | Data Analyst</h3>
+<h3 align="center">Data Engineer | Database Analyst | Data Analyst</h3>
 
 <!---
 ![Profile Views](https://komarev.com/ghpvc/?username=essraahmed&color=blue)
@@ -8,7 +8,7 @@
 
 ## 👩🏻‍💻About Me
 - 📫 I'm currently a Data Analyst at Data AnalyticsCFD
-- 🌱 I’m currently learning **Data Engineering with AWS** at Udacity and Datacamp platforms
+- 🌱 I have completed **Data Engineering with AWS** at Udacity and Datacamp platforms
 
 - 👯 I’m looking to collaborate on **Data Engineering/Analysis Projects**
 
@@ -39,7 +39,9 @@
 
 Show some support by starring some of my repositories and follow me on GitHub.
 
-
+<a href="https://github.com/ajinjue/Data_Pipeline_with_Apache_Airflow">
+  <img align="left" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=ajinjue&repo=Data_Pipeline_with_Apache_Airflow&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
 <a href="https://github.com/ajinjue/Data_Warehouse_Redshift">
   <img align="left" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=ajinjue&repo=Data_Warehouse_Redshift&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
