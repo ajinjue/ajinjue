@@ -50,7 +50,7 @@ Show some support by starring some of my repositories and follow me on GitHub.
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=ajinjue&repo=Data_Modelling_with_Cassandra&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-<a href="https://github.com/ajinjue/Wrangling-Analyze-Data-Project">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=ajinjue&repo=Wrangling-Analyze-Data-Project&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<a href="https://github.com/ajinjue/STEDI-Human-Balance-Analytics">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=ajinjue&repo=STEDI-Human-Balance-Analytics&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
