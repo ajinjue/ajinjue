@@ -1,5 +1,5 @@
 <h1 align="center">Hi✌🏻, I'm Collinus Ajinjue Akwayaga</h1>
-<h3 align="center">Data Engineer | Database Analyst | Data Analyst</h3>
+<h3 align="center">Data Engineer | Data Analyst</h3>
 
 <!---
 ![Profile Views](https://komarev.com/ghpvc/?username=essraahmed&color=blue)
@@ -7,7 +7,7 @@
 --->
 
 ## 👩🏻‍💻About Me
-- 📫 I'm currently a Data Analyst at Data AnalyticsCFD
+- 📫 I'm currently a Data Analyst at Empire Company Ltd
 - 🌱 I have completed **Data Engineering with AWS** at Udacity and Datacamp platforms
 
 - 👯 I’m looking to collaborate on **Data Engineering/Analysis Projects**
